@@ -2,7 +2,7 @@
 
 Meu nome é Ricardo Marques Garcia
 
-- Estou estudando na [Alura](https://www.alura.co.br)
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamneto dos meus projetos desenvolvidos
 
